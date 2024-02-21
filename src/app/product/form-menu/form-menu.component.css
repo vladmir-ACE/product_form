@@ -1,0 +1,8 @@
+.green-link.clicked {
+    color: green;
+}
+
+.active {
+    background-color: green; 
+    color: white; 
+  }
